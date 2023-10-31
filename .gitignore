@@ -3,4 +3,5 @@ node_modules
 package-lock.json
 .idea
 .vscode
+ip_addresses.txt
 .env

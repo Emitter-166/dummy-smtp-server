@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "smtp-server": "^3.13.0"
+  },
+  "devDependencies": {
+    "@types/smtp-server": "^3.5.9"
+  }
 }
